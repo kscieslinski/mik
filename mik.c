@@ -5,8 +5,7 @@ wersja: 1.0
 data: 12.12.2016
 
 Uwagi: 
-1. Nie chcia³em t³umaczyæ podanych w tresci zadania nazw funkcji na jezyk polski. 
-Zdecydowalem sie wiec na jezyk angielski. Mam nadzieje, ze nie bedzie zbyt wielu, 
+Mam nadzieje, ze nie bedzie zbyt wielu, 
 wynikajacych z nieznajomosci zargonu informatycznego zmylek w postacii nazw zmiennych 
 przez nikogo w branzy nie uzywanych.( np. pomocnicza = dummy ). 
 
