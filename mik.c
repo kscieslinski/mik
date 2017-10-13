@@ -1,14 +1,7 @@
 /*
 "Maszyna MIK"
-autor: Konstanty Aleksander Cieslinski <kscieslinski@gmail.com>
-wersja: 1.0
-data: 12.12.2016
-
-Uwagi: 
-Mam nadzieje, ze nie bedzie zbyt wielu, 
-wynikajacych z nieznajomosci zargonu informatycznego zmylek w postacii nazw zmiennych 
-przez nikogo w branzy nie uzywanych.( np. pomocnicza = dummy ). 
-
+author: Konstanty Aleksander Cieslinski <kscieslinski@gmail.com>
+version: 1.0
 Program description:
 It's a MIK engine code interpreter. Program loads the primary state of engine from input. 
 Anything after the base record is treated as data for the program which is being interpreted. 
